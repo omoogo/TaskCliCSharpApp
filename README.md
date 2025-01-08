@@ -52,7 +52,7 @@ Make sure you have the following installed on your system:
     Clone the project repository and navigate to the application directory:
 
     ```bash
-    git clone https://github.com/your-username/task-tracker.git
+    git clone https://github.com/omoogo/TaskCliCSharpApp
     cd TaskCliCsharpApp/TaskCliCSharp
     ```
 
